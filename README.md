@@ -14,4 +14,4 @@ This repository contains my Java lab assignments submitted as part of my academi
 - Lab 03: Advance Problems
 
 ## Language
--Java
+-Java (object oriented)
