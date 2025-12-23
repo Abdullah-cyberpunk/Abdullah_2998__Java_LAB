@@ -12,3 +12,6 @@ This repository contains my Java lab assignments submitted as part of my academi
 ## Contents
 - Lab 01: Basic OOP programs
 - Lab 03: Advance Problems
+
+## Language
+-Java
